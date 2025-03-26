@@ -12,6 +12,7 @@ Model
 0.8734927796575177}
 
 Permissions
+* The open access of this model is granted for research purposes only. Any use of the model for clinical decision-making is not recommended. The sole responsibility of patient care remains that of the attending veterinarian, and we assume no responsibility or liability if this model is used outside of its intended scope.
 * Contributions are welcome! If you'd like to improve the model or code, please open an issue or submit a pull request.
 * Cite us at Low D, Stables S, Kondrotaite L, Garland B, Rutherford S. Machine-learning-based prediction of functional recovery in deep-pain-negative dogs after decompressive thoracolumbar hemilaminectomy for acute intervertebral disc extrusion. Vet Surg. 2025;1-10. doi.org/10.1111/vsu.14250
 
