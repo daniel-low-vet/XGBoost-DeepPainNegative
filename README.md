@@ -27,6 +27,8 @@
 
 📂 README.md – This documentation
 
+**Acknowledgements**
+
 Algorithm built with the generous contributions of clinicians and clinical cases from:
 ![image](https://github.com/user-attachments/assets/8c6f2507-311d-42f4-985a-3427358d49ee)
 
